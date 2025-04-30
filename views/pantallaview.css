@@ -1,0 +1,13 @@
+.pantalla {
+    background-color: rgb(232, 232, 232);
+    height: 18rem;
+    padding: rem;
+
+    font-size: 5rem;
+    font-weight: 600;
+
+    text-align: right;
+    display: flex;
+    align-items: end;
+    justify-content: right;
+}
